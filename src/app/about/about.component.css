@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.about{
+    width: 200px;
+    height: 75px;
+    padding: 0px;
+    color: rgb(165, 195, 230);
+    margin-left: 570px;
+}
+.vision{
+    width: 100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+ }
+ .vision .para{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    color: whitesmoke;
+
+ }
+ .vision h1{
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 160px;
+
+ }
+.carousel{
+    width: 100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+ }
+ .carousel .par2{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    color: whitesmoke;
+    align-items: center;
+
+ }
+ .carousel h1{
+    
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 160px;
+
+ }
